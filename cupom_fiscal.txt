@@ -1,0 +1,7 @@
+Cupom Fiscal - 06/11/2024 18:11:59
+
+Produto: biscoito, Quantidade: 1, Total: R$5.00
+Produto: agua com gas, Quantidade: 1, Total: R$4.00
+
+Total: R$9.00
+Forma de Pagamento: Cartão de Débito
